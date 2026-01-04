@@ -1,2 +1,2 @@
-# zerub
-Jardín digital de zerub
+# Jardín digital de Zerubbavel
+Donde ocurre la magia
